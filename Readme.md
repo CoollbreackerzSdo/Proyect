@@ -11,7 +11,7 @@
 ## Formas De Abrir
 
 1. Mediante [MagicaVolxel](https://ephtracy.github.io/)(Recomendado):
-   utiliza principalmente los objetos tipo Vox en la carpeta vox(voxels)
+   utiliza principalmente los objetos tipo Vox en la carpeta vox(voxels), para abrirlos solo es copiar y pegar los archivos .vox en la carpeta Vox y después mirarlos ya en la aplicación o usar la opción de importación en la app con los mismos archivos .vox
 
 2. Blender:
     Problemas al exportar a blender desde MagicaVolxel, exporta todos los objetos separados
